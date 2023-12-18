@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api", "Checkers.Api\Checkers.Api.csproj", "{E50849B0-CED4-4710-A7DB-56708FC9421E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api.Database", "Checkers.Api.Database\Checkers.Api.Database.csproj", "{84B0B78E-88BF-4FE4-AF2F-64B4D83EB828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api.EntityFramework", "Checkers.Api.EntityFramework\Checkers.Api.EntityFramework.csproj", "{33D834A9-9E88-4B01-8135-795C7294CFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api.DataAccess", "Checkers.Api.DataAccess\Checkers.Api.DataAccess.csproj", "{C7A18849-700B-4041-9A65-240710BA8449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api.Common", "Checkers.Api.Common\Checkers.Api.Common.csproj", "{3105F1F6-83AA-40C2-B948-3A131BB8492A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Api.Services", "Checkers.Api.Services\Checkers.Api.Services.csproj", "{C4B176C1-99F2-4424-A59E-CD4AA618B678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50849B0-CED4-4710-A7DB-56708FC9421E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50849B0-CED4-4710-A7DB-56708FC9421E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50849B0-CED4-4710-A7DB-56708FC9421E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50849B0-CED4-4710-A7DB-56708FC9421E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B0B78E-88BF-4FE4-AF2F-64B4D83EB828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B0B78E-88BF-4FE4-AF2F-64B4D83EB828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B0B78E-88BF-4FE4-AF2F-64B4D83EB828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B0B78E-88BF-4FE4-AF2F-64B4D83EB828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D834A9-9E88-4B01-8135-795C7294CFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D834A9-9E88-4B01-8135-795C7294CFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D834A9-9E88-4B01-8135-795C7294CFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D834A9-9E88-4B01-8135-795C7294CFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A18849-700B-4041-9A65-240710BA8449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A18849-700B-4041-9A65-240710BA8449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A18849-700B-4041-9A65-240710BA8449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A18849-700B-4041-9A65-240710BA8449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3105F1F6-83AA-40C2-B948-3A131BB8492A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3105F1F6-83AA-40C2-B948-3A131BB8492A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3105F1F6-83AA-40C2-B948-3A131BB8492A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3105F1F6-83AA-40C2-B948-3A131BB8492A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B176C1-99F2-4424-A59E-CD4AA618B678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B176C1-99F2-4424-A59E-CD4AA618B678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B176C1-99F2-4424-A59E-CD4AA618B678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B176C1-99F2-4424-A59E-CD4AA618B678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30929831-4EB2-49B0-86FC-8F6DBD88DCDE}
+	EndGlobalSection
+EndGlobal
